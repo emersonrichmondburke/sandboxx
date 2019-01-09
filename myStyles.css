@@ -1,0 +1,133 @@
+/*  the whole page is centered
+    since everything is within the div 'container' has the auto margins*/
+#font {
+    font-family: serif;
+}
+#body {
+    background-color: #D2D5DA;
+}    
+
+#wrapper {
+    background-color: #7C7D7F;
+    width:          1000px;
+    margin-left:    auto;
+    margin-right:   auto;  
+    border-radius: 25px;
+}
+#Header {
+    background-color:#7C7D7F;
+    width:          860px;
+    margin-left:    auto;
+    margin-right:   auto;
+    text-align:     center;
+    font-family: serif;
+} 
+#NavBar {
+    background-color: #7C7D7F;
+    text-align:     center;
+} 
+#NavBar1{
+    background-color: #7C7D7F;
+    text-align:     center;
+} 
+#Main {
+    background-color: #bc6ac9;
+    width:          960px;
+    margin-left:    auto;
+    margin-right:   auto;
+    font-family: serif;
+    border-radius: 25px;
+}
+#LeftSideBox    {
+    background-color: #7C7D7F;
+    width:          420px;
+    float:          left;
+    margin-left:    10px;
+    margin-right:   10px;
+    padding:        20px; 
+    text-align:     center;
+    font-family: serif;
+    border-radius: 25px;
+    margin-bottom: 10px;
+
+}
+#RightSideBox   {
+    background-color: #7C7D7F;
+    position:       relative;
+    width:          420px;
+    float:          right;
+    margin-left:    10px;
+    margin-right:   10px;
+    padding:        20px;
+    text-align:     center;
+    font-family: serif;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+#LBottomBox     {
+    background-color: #7C7D7F;
+    width:          420px;
+    float:          left;
+    margin-left:    10px;
+    margin-right:   10px;
+    padding:        20px; 
+    text-align:     center;
+    font-family: serif;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+#IMG            {
+    background-color: #7C7D7F;
+    width:          420px;
+    float:          left;
+    margin-left:    10px;
+    margin-right:   10px;
+    padding:        20px; 
+    text-align:     center;
+    font-family: serif;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+.boxedText      {
+    background-color: #7C7D7F;
+    text-align:     center;
+    font-family: serif;
+    padding: 10px;
+}
+.link           {
+    color: black;
+    font-family: serif;
+}
+.font           {
+    color: white;
+}
+
+
+
+
+#container {
+    width:     800px;
+    background-color: #cbccb3;
+    margin-left: auto;
+    margin-right: auto;
+    color: ;
+}
+
+
+#menu {
+    width:     500px;
+    background-color:  grey;
+    margin-left:   20px;
+}
+
+/*This is an extra style element that will change all 'a href' tags to the values below*/
+a {
+    font-size:  20px;
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    color: white;
+    text-decoration: none;
+}
